@@ -1,0 +1,23 @@
+# Compiled class files
+bin/
+*.class
+out/
+build/
+
+# Configuration and Secrets
+config.properties
+
+# Application Data
+history.txt
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
